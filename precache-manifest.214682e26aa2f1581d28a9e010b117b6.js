@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a20dfc8fad2c007607a68909d406084",
+    "revision": "cae5f65ba936c1d289e96239dba7d3a1",
     "url": "/IEEE-REACT/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IEEE-REACT/static/css/2.36020323.chunk.css"
   },
   {
-    "revision": "59c5bf672990d1c3f595",
+    "revision": "d85e462ad6583f516894",
     "url": "/IEEE-REACT/static/css/main.89e969a0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IEEE-REACT/static/js/2.13a0cc54.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59c5bf672990d1c3f595",
-    "url": "/IEEE-REACT/static/js/main.57d331e2.chunk.js"
+    "revision": "d85e462ad6583f516894",
+    "url": "/IEEE-REACT/static/js/main.1ec8ee6d.chunk.js"
   },
   {
     "revision": "9fa171d943c0f2665183",
