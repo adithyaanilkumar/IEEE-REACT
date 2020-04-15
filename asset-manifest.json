@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/IEEE-REACT/static/css/main.89e969a0.chunk.css",
-    "main.js": "/IEEE-REACT/static/js/main.df091313.chunk.js",
-    "main.js.map": "/IEEE-REACT/static/js/main.df091313.chunk.js.map",
+    "main.css": "/IEEE-REACT/static/css/main.237fc592.chunk.css",
+    "main.js": "/IEEE-REACT/static/js/main.0c1a4c9a.chunk.js",
+    "main.js.map": "/IEEE-REACT/static/js/main.0c1a4c9a.chunk.js.map",
     "runtime-main.js": "/IEEE-REACT/static/js/runtime-main.1cf62cec.js",
     "runtime-main.js.map": "/IEEE-REACT/static/js/runtime-main.1cf62cec.js.map",
     "static/css/2.36020323.chunk.css": "/IEEE-REACT/static/css/2.36020323.chunk.css",
-    "static/js/2.13a0cc54.chunk.js": "/IEEE-REACT/static/js/2.13a0cc54.chunk.js",
-    "static/js/2.13a0cc54.chunk.js.map": "/IEEE-REACT/static/js/2.13a0cc54.chunk.js.map",
+    "static/js/2.7a227c3a.chunk.js": "/IEEE-REACT/static/js/2.7a227c3a.chunk.js",
+    "static/js/2.7a227c3a.chunk.js.map": "/IEEE-REACT/static/js/2.7a227c3a.chunk.js.map",
     "index.html": "/IEEE-REACT/index.html",
-    "precache-manifest.8c39fcf24f9161e72125ed082b896c65.js": "/IEEE-REACT/precache-manifest.8c39fcf24f9161e72125ed082b896c65.js",
+    "precache-manifest.acad558ba630b95b72dc9ec22a304160.js": "/IEEE-REACT/precache-manifest.acad558ba630b95b72dc9ec22a304160.js",
     "service-worker.js": "/IEEE-REACT/service-worker.js",
     "static/css/2.36020323.chunk.css.map": "/IEEE-REACT/static/css/2.36020323.chunk.css.map",
-    "static/css/main.89e969a0.chunk.css.map": "/IEEE-REACT/static/css/main.89e969a0.chunk.css.map",
-    "static/js/2.13a0cc54.chunk.js.LICENSE.txt": "/IEEE-REACT/static/js/2.13a0cc54.chunk.js.LICENSE.txt",
+    "static/css/main.237fc592.chunk.css.map": "/IEEE-REACT/static/css/main.237fc592.chunk.css.map",
+    "static/js/2.7a227c3a.chunk.js.LICENSE.txt": "/IEEE-REACT/static/js/2.7a227c3a.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/IEEE-REACT/static/media/1.56479331.jpg",
     "static/media/2.jpg": "/IEEE-REACT/static/media/2.49b9915f.jpg",
     "static/media/3.jpg": "/IEEE-REACT/static/media/3.2ee4c113.jpg",
@@ -64,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.1cf62cec.js",
     "static/css/2.36020323.chunk.css",
-    "static/js/2.13a0cc54.chunk.js",
-    "static/css/main.89e969a0.chunk.css",
-    "static/js/main.df091313.chunk.js"
+    "static/js/2.7a227c3a.chunk.js",
+    "static/css/main.237fc592.chunk.css",
+    "static/js/main.0c1a4c9a.chunk.js"
   ]
 }
